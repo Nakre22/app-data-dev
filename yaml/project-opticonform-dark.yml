@@ -4,7 +4,7 @@ meta:
   primary_color: '#c4922a'
   secondary_color: '#d4a040'
   status: active
-  favicon: /api/data/opticonform-logo.png
+  favicon: /api/data/opticonform-dark/opticonform-logo.png
   heading_font: playfair
   card_style: bordered
   page_bg_color: '#faf8f5'
@@ -16,7 +16,7 @@ meta:
 header:
   title: OPTICONFORM
   subtitle: Small Language Models Auto-certifiés
-  logo: /api/data/opticonform-logo.png
+  logo: /api/data/opticonform-dark/opticonform-logo.png
 contact:
   email: mohand-said.hacid@liris.cnrs.fr
 sections:
@@ -25,20 +25,20 @@ sections:
   group: Home
   blocks:
   - type: whywhathow
-    logo: /api/data/opticonform-logo.png
+    logo: /api/data/opticonform-dark/opticonform-logo.png
     logo_width: '180'
     partner_logos:
     - name: Omundu
-      logo: /api/data/logo-omundu.png
+      logo: /api/data/opticonform-dark/logo-omundu.png
       url: https://www.omundu.ai/
     - name: LIRIS - CNRS
-      logo: /api/data/logo-liris.png
+      logo: /api/data/opticonform-dark/logo-liris.png
       url: https://liris.cnrs.fr/
     - name: Université Claude Bernard Lyon 1
-      logo: /api/data/logo-ucbl1.svg
+      logo: /api/data/opticonform-dark/logo-ucbl1.svg
       url: https://www.univ-lyon1.fr/
     - name: Région Auvergne-Rhône-Alpes
-      logo: /api/data/logo-region-aura.jpg
+      logo: /api/data/opticonform-dark/logo-region-aura.jpg
       url: https://www.auvergnerhonealpes.fr/
     why: Face à la complexité croissante des équipements industriels et à la pénurie
       persistante de main-d'œuvre qualifiée, l'industrie doit simplifier et accélérer
@@ -153,19 +153,19 @@ sections:
         universités
       email: mohand-said.hacid@liris.cnrs.fr
       website: http://perso.univ-lyon1.fr/mohand-said.hacid/
-      image: /api/data/msh.jpg
+      image: /api/data/opticonform-dark/msh.jpg
     - name: Vincent Lemonde
       role: CEO Omundu ; Responsable du pilotage du projet OPTICONFORME pour Omundu
       email: vincent.lemonde@omundu.ai
       website: https://omundu.ai
       linkedin: https://www.linkedin.com/in/vincentlemonde
-      image: /api/data/vincent-lemonde.jpeg
+      image: /api/data/opticonform-dark/vincent-lemonde.jpeg
     - name: Mehdi Hennequin
       role: CTO Omundu ; Responsable technique du projet OPTICONFORME
       email: mehdi.hennequin@omundu.ai
       website: https://omundu.ai
       linkedin: https://www.linkedin.com/in/mehdi-hennequin-068b4996/
-      image: /api/data/mehdi-hennequin.jpeg
+      image: /api/data/opticonform-dark/mehdi-hennequin.jpeg
 - id: engineers
   label: Engineers
   group: Members
@@ -175,11 +175,11 @@ sections:
     - name: Ilhem Bekkar
       role: Ingénieur
       linkedin: https://www.linkedin.com/in/ilhem-bekkar-8927a11b2/
-      image: /api/data/ilhem-bekkar.png
+      image: /api/data/opticonform-dark/ilhem-bekkar.png
     - name: Riad Yala
       role: Ingénieur
       website: https://myawsbucket-for-website-hosting-12131415.s3.us-west-1.amazonaws.com/index.html
-      image: /api/data/riad-yala.png
+      image: /api/data/opticonform-dark/riad-yala.png
 - id: interns
   label: Interns
   group: Members
@@ -189,21 +189,21 @@ sections:
     - name: Omar Fatmi
       role: Stagiaire
       linkedin: https://www.linkedin.com/in/omar-fatmi-93362a254/
-      image: /api/data/omar-fatmi.png
+      image: /api/data/opticonform-dark/omar-fatmi.png
     - name: Riad Yala
       role: Stagiaire
       website: https://myawsbucket-for-website-hosting-12131415.s3.us-west-1.amazonaws.com/index.html
-      image: /api/data/riad-yala.png
+      image: /api/data/opticonform-dark/riad-yala.png
     - name: Djameleddine Louhbaibat
       role: Stagiaire
-      image: /api/data/djameleddine-louhbaibat.jpeg
+      image: /api/data/opticonform-dark/djameleddine-louhbaibat.jpeg
     - name: Wail Himeur
       role: Stagiaire
       linkedin: https://www.linkedin.com/in/wail-himeur-1977a1252/
-      image: /api/data/wail-himeur.jpg
+      image: /api/data/opticonform-dark/wail-himeur.jpg
     - name: Mamadou-Sotho Bah
       role: Stagiaire
-      image: /api/data/mamadou-sotho-bah.jpg
+      image: /api/data/opticonform-dark/mamadou-sotho-bah.jpg
 - id: partners
   label: Partners & Collaborators
   group: Members
@@ -211,22 +211,22 @@ sections:
   - type: partners
     items:
     - name: Omundu
-      logo: /api/data/logo-omundu.png
+      logo: /api/data/opticonform-dark/logo-omundu.png
       url: https://www.omundu.ai/
       description: Partenaire industriel international basé en France, spécialisé
         dans l'intelligence artificielle appliquée à la maintenance industrielle et
         à la documentation technique.
     - name: LIRIS - CNRS
-      logo: /api/data/logo-liris.png
+      logo: /api/data/opticonform-dark/logo-liris.png
       url: https://liris.cnrs.fr/
       description: Laboratoire d'Informatique en Image et Systèmes d'information,
         UMR CNRS 5205.
     - name: Université Claude Bernard Lyon 1
-      logo: /api/data/logo-ucbl1.svg
+      logo: /api/data/opticonform-dark/logo-ucbl1.svg
       url: https://www.univ-lyon1.fr/
       description: Université de sciences et technologies de Lyon.
     - name: Région Auvergne-Rhône-Alpes
-      logo: /api/data/logo-region-aura.jpg
+      logo: /api/data/opticonform-dark/logo-region-aura.jpg
       url: https://www.auvergnerhonealpes.fr/
       description: Soutien régional via le programme Partenariats d'innovation Auvergne-Rhône-Alpes.
 page_type: project

@@ -4,7 +4,7 @@ meta:
   primary_color: '#1850c0'
   secondary_color: '#0d9488'
   status: active
-  favicon: /api/data/Logoahealth.png
+  favicon: /api/data/authonom-health-lyon/Logoahealth.png
   external_url: https://pepr-santenum.fr/2023/11/07/autonom-health/
   page_bg_color: '#e8f0fe'
   surface_color: '#f0f6ff'
@@ -15,7 +15,7 @@ meta:
 header:
   title: AUTHONOM HEALTH LYON
   subtitle: Autonomous Health Monitoring
-  logo: /api/data/Logoahealth.png
+  logo: /api/data/authonom-health-lyon/Logoahealth.png
 contact:
   email: contact@authonom-health.fr
 sections:
@@ -24,7 +24,7 @@ sections:
   group: Home
   blocks:
   - type: whywhathow
-    logo: /api/data/Logohealthv2.png
+    logo: /api/data/authonom-health-lyon/Logohealthv2.png
     logo_align: left
     logo_width: '180'
     why: Western populations face an increase of longevity <a href="https://hal.science/"
@@ -84,12 +84,12 @@ sections:
   blocks:
   - type: documents
     description: All publications are available open-access on <a href="https://hal.science/"
-      target="_blank" rel="noopener noreferrer">HAL Science</a>. <img src="/api/data/Logoahealth.png"
+      target="_blank" rel="noopener noreferrer">HAL Science</a>. <img src="/api/data/authonom-health-lyon/Logoahealth.png"
       alt="logo" class="img-align-right"> Internal reports and project deliverables
       are accessible to partners upon request. For preprints or collaboration inquiries,
       <a href="mailto:contact@authonom-health.fr" target="_blank" rel="noopener noreferrer">contact
       us</a>.
-    image: /api/data/Logoahealth.png
+    image: /api/data/authonom-health-lyon/Logoahealth.png
     items:
     - name: Complexity Landscape for Local Certification
       type: Conference Paper
@@ -105,8 +105,8 @@ sections:
         target="_blank" rel="noopener noreferrer">HAL</a>.
       link: https://arxiv.org/pdf/2505.20915
     - _type: text
-      content: <img src="/api/data/Logoahealth.png" class="img-align-left" width="64">
-        The publications below span <strong>theoretical computer science</strong>
+      content: <img src="/api/data/authonom-health-lyon/Logoahealth.png" class="img-align-left"
+        width="64"> The publications below span <strong>theoretical computer science</strong>
         and <strong>applied digital health</strong>. They reflect collaborative work
         with <a href="https://inria.fr/" target="_blank" rel="noopener noreferrer">Inria</a>,
         <a href="https://cnrs.fr/" target="_blank" rel="noopener noreferrer">CNRS</a>,
@@ -144,7 +144,7 @@ sections:
       abstract: This document details the typography, color palettes, and logo usage
         rules for all project publications. It is intended for internal use only to
         ensure visual consistency across presentations.
-      link: /api/data/Projettest.pdf
+      link: /api/data/authonom-health-lyon/Projettest.pdf
 - id: software
   label: Software & Tools
   group: Productions
@@ -176,7 +176,7 @@ sections:
         required for local deployment. It includes pre-compiled binaries, configuration
         files, and comprehensive documentation. Refer to the README.md file for detailed
         installation instructions.
-      download: /api/data/Projettest.zip
+      download: /api/data/authonom-health-lyon/Projettest.zip
 - id: demos
   label: Demos
   group: Productions
@@ -211,7 +211,7 @@ sections:
         le corps fait le ménage pour éliminer les toxines, favorise la croissance
         et répare les muscles, permet au cerveau de se développer et consolide tout
         ce qui a été appris pendant la journée.
-      link: /api/data/Savez_vous_tout_ce_qui_se_passe_pendant_le_sommeil.mp4
+      link: /api/data/authonom-health-lyon/Savez_vous_tout_ce_qui_se_passe_pendant_le_sommeil.mp4
 - id: events
   label: Events & Activities
   group: News & Events
@@ -294,7 +294,7 @@ sections:
         graph isomorphism problems. The speaker presents a new hybrid algorithm combining
         classical pre-processing with quantum subroutines.
       slides_type: link
-      slides_value: /api/data/Projettest.pdf
+      slides_value: /api/data/authonom-health-lyon/Projettest.pdf
     - name: 'PhD Progress: Distributed DB'
       date: '2025-09-05'
       type: Internal
@@ -311,7 +311,7 @@ sections:
         using Docker and Singularity. This ensures reproducibility of experiments
         and simplifies deployment on the university cluster.
       slides_type: link
-      slides_value: /api/data/Projettest.pdf
+      slides_value: /api/data/authonom-health-lyon/Projettest.pdf
 - id: openpositions
   label: Open Positions
   group: News & Events
@@ -321,7 +321,7 @@ sections:
       join our team. All positions are fully funded and located at Université Claude
       Bernard Lyon 1, Villeurbanne campus. Download the offer sheet for full details
       and application instructions.
-    image: /api/data/placeholder.jpg
+    image: /api/data/authonom-health-lyon/placeholder.jpg
     items:
     - name: 'PhD Position: Generative AI for Medical Diagnosis'
       date: '2025-12-20'
@@ -333,30 +333,30 @@ sections:
         de Lyon</a>. <strong>Applications open until 15 March 2026.</strong> Send
         CV and motivation letter to <a href="mailto:contact@authonom-health.fr" target="_blank"
         rel="noopener noreferrer">contact@authonom-health.fr</a>.
-      download: /api/data/Projettest.pdf
+      download: /api/data/authonom-health-lyon/Projettest.pdf
     - _type: text
-      content: <img src="/api/data/Logohealthv2.png" class="img-align-right" width="100">
-        All positions include full social benefits (health insurance, pension) under
-        the French public service framework. PhD candidates receive a gross monthly
-        salary of <strong>€2,100</strong>. Post-doc and engineer positions are negotiated
-        individually.<br><br>For any question, contact <a href="mailto:contact@authonom-health.fr"
+      content: <img src="/api/data/authonom-health-lyon/Logohealthv2.png" class="img-align-right"
+        width="100"> All positions include full social benefits (health insurance,
+        pension) under the French public service framework. PhD candidates receive
+        a gross monthly salary of <strong>€2,100</strong>. Post-doc and engineer positions
+        are negotiated individually.<br><br>For any question, contact <a href="mailto:contact@authonom-health.fr"
         target="_blank" rel="noopener noreferrer">contact@authonom-health.fr</a> with
         the subject line <strong>Application — [Position Name]</strong>.
     - name: 'Post-doc: Distributed Algorithms for Cloud Computing'
       date: '2025-12-10'
       start: '2026-02-01'
       duration: 1 year + renewal
-      download: /api/data/Projettest.pdf
+      download: /api/data/authonom-health-lyon/Projettest.pdf
     - name: 'Master Internship: Green IT & Energy Efficiency'
       date: '2025-11-15'
       start: Feb / Mar 2026
       duration: 16 weeks
-      download: /api/data/Projettest.pdf
+      download: /api/data/authonom-health-lyon/Projettest.pdf
     - name: 'Research Engineer: Full-Stack Web Development'
       date: '2026-01-05'
       start: ASAP
       duration: 12 months (renewable)
-      download: /api/data/Projettest.pdf
+      download: /api/data/authonom-health-lyon/Projettest.pdf
 - id: blogs
   label: Blog & News
   group: Miscellaneous
@@ -398,9 +398,10 @@ sections:
     description: The AUTHONOM HEALTH team brings together researchers from computer
       science, clinical medicine, and behavioral psychology at <a href="https://www.univ-lyon1.fr"
       target="_blank" rel="noopener noreferrer">Université Claude Bernard Lyon 1</a>.
-      <img src="/api/data/Logohealthv2.png" class="img-align-right" width="120"> Our
-      interdisciplinary approach bridges digital technologies and healthcare practice.
-    image: /api/data/msh.jpg
+      <img src="/api/data/authonom-health-lyon/Logohealthv2.png" class="img-align-right"
+      width="120"> Our interdisciplinary approach bridges digital technologies and
+      healthcare practice.
+    image: /api/data/authonom-health-lyon/msh.jpg
     items:
     - _type: text
       content: Weekly team meetings are held every <strong>Tuesday at 10:00</strong>
@@ -425,20 +426,20 @@ sections:
       website_3_icon: article
       linkedin: https://linkedin.com/in/mohand-said-hacid
       github: https://github.com/mshacid
-      image: /api/data/msh.jpg
+      image: /api/data/authonom-health-lyon/msh.jpg
     - name: Karim Dia
       role: Étudiant
       email: karim.dia@univ-lyon1.fr
       phone: +33 (0) 4 27 46 57 09
       linkedin: https://linkedin.com/in/karim-dia
-      image: /api/data/placeholder.png
+      image: /api/data/authonom-health-lyon/placeholder.png
     - name: Ayed Rahib
       role: Doctorante
       email: ayed.rahib@univ-lyon1.fr
       phone: +33 (0) 4 27 46 57 10
       linkedin: https://linkedin.com/in/ayed-rahib
       twitter: https://twitter.com/ayedrahib
-      image: /api/data/placeholder.png
+      image: /api/data/authonom-health-lyon/placeholder.png
 - id: interns
   label: Interns
   group: Members
@@ -455,20 +456,20 @@ sections:
       email: mamadou.bah@etu.univ-lyon1.fr
       website: https://forge.univ-lyon1.fr
       github: https://github.com/msotho-bah
-      image: /api/data/placeholder.png
+      image: /api/data/authonom-health-lyon/placeholder.png
     - name: Abdou-Karim DIA
       role: Master Intern - Data Engineering
       email: abdou-karim.dia@etu.univ-lyon1.fr
       website: https://forge.univ-lyon1.fr
       github: https://github.com/akdia
       linkedin: https://linkedin.com/in/abdou-karim-dia
-      image: /api/data/placeholder.png
+      image: /api/data/authonom-health-lyon/placeholder.png
     - name: Adam RODRIGUEZ
       role: Master Intern - AI & Machine Learning
       email: adam.rodriguez@etu.univ-lyon1.fr
       website: https://forge.univ-lyon1.fr
       linkedin: https://linkedin.com/in/adam-rodriguez
-      image: /api/data/placeholder.png
+      image: /api/data/authonom-health-lyon/placeholder.png
 - id: visitors
   label: Visitors
   group: Members
@@ -484,7 +485,7 @@ sections:
       website_2_icon: school
       linkedin: https://linkedin.com/in/mohand-said-hacid
       github: https://github.com/mshacid
-      image: /api/data/msh.jpg
+      image: /api/data/authonom-health-lyon/msh.jpg
 - id: partners
   label: Partners & Collaborators
   group: Members
@@ -496,15 +497,15 @@ sections:
       target="_blank" rel="noopener noreferrer">Get in touch</a>.
     items:
     - name: CNRS
-      logo: /api/data/placeholder.jpg
+      logo: /api/data/authonom-health-lyon/placeholder.jpg
       url: https://cnrs.fr
       description: Centre National de la Recherche Scientifique
     - name: Inria
-      logo: /api/data/placeholder.jpg
+      logo: /api/data/authonom-health-lyon/placeholder.jpg
       url: https://inria.fr
       description: Institut national de recherche en sciences du numérique
     - name: Université Claude Bernard Lyon 1
-      logo: /api/data/placeholder.jpg
+      logo: /api/data/authonom-health-lyon/placeholder.jpg
       url: https://www.univ-lyon1.fr
       description: Université de Lyon 1
 page_type: project
