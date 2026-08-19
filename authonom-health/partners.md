@@ -2,7 +2,7 @@
 - group: Members
 
 @partners
-- description: RSCS is part of a broad national and international network. Our partnerships cover joint publications, shared infrastructure, and co-supervised PhD projects. Interested in collaborating? [Get in touch](mailto:contact@cnrs.liris.fr).
+- description: AUTHONOM HEALTH is part of a broad national and international network. Our partnerships cover joint publications, shared infrastructure, and co-supervised PhD projects. Interested in collaborating? [Get in touch](mailto:contact@authonom-health.fr).
 
 @item CNRS
 - logo: data/placeholder.jpg

@@ -44,11 +44,15 @@
 - surface: light
 
 @stats
-| value | label |
-|-------|-------|
-| 15   | Projets actifs |
-| 50+  | Chercheurs |
-| 200+ | Publications |
+@item
+- value: 15
+- label: Projets actifs
+@item
+- value: 50+
+- label: Chercheurs
+@item
+- value: 200+
+- label: Publications
 
 @section features "Recherche"
 - surface: light
